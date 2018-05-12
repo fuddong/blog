@@ -23,6 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+hello****中文天天向上。好好学习。
+
+
 [Link](url) and ![Image](src)
 ```
 
